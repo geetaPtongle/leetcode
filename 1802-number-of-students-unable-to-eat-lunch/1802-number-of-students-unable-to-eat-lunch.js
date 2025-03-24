@@ -3,6 +3,9 @@
  * @param {number[]} sandwiches
  * @return {number}
  */
+//Aproach-1 (Using counter only)
+//T.C : O(n)
+//S.C : O(1)
 var countStudents1 = function(students, sandwiches) {
     let res=students.length;
     let obj ={}
@@ -21,7 +24,9 @@ var countStudents1 = function(students, sandwiches) {
 
 };
 
-//
+//Approach-1 (Simply simulate whatever the problem asks for)
+//T.C : O(n)
+//S.C : O(n)
 var countStudents = function(students, sandwiches) {
     let n=students.length;
   let queue=[];
