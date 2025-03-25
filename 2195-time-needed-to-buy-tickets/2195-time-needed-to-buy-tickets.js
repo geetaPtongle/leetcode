@@ -6,7 +6,7 @@
 //Approach-1 (Using Queue to simply simulate the operations)
 //T.C : O(n*m) -> Loop runs until queue is empty and in worst case all people have maximum m tickets 
 //S.C : O(n)
-var timeRequiredToBuy1 = function(tickets, k) {
+var timeRequiredToBuy = function(tickets, k) {
     let queue = [];
     let n= tickets.length;
     let time =0;
