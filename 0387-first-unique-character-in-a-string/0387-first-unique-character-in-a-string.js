@@ -2,6 +2,9 @@
  * @param {string} s
  * @return {number}
  */
+
+ //T.C : O(n)
+//S.C : O(26) ~ O(1)
 var firstUniqChar = function(s) {
     let array =new Array(26).fill(0);
 
