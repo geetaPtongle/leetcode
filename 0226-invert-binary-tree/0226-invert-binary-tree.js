@@ -15,21 +15,25 @@
 // Time Complexity: O(N) → Visits every node once.
 
 // Space Complexity: O(H) → Recursive call stack (H = height of tree).
-// var invertTree = function(root) {
-//     if (root === null) return null; // Base case
+var invertTree = function(root) {
+    if (root === null) return null; // Base case
 
-//     // Swap left and right subtrees
-//     let temp = root.left;
-//     root.left = root.right;
-//     root.right = temp;
+    // Swap left and right subtrees
+    let temp = root.left;
+    root.left = root.right;
+    root.right = temp;
 
-//     // Recursively invert left and right subtrees
-//     invertTree(root.left);
-//     invertTree(root.right);
+    // Recursively invert left and right subtrees
+    invertTree(root.left);
+    invertTree(root.right);
 
-//     return root;
-// };
+    return root;
+};
 
+// 2️⃣ Iterative DFS (Using Stack)
+// Time Complexity: O(N) → Visits every node once.
+
+// Space Complexity: O(H) → Stack stores nodes up to tree height.
 var invertTree = function(root) {
  if (!root) return null;
     let stack=[root];
@@ -46,15 +50,15 @@ var invertTree = function(root) {
 // 3️⃣ BFS (Using Queue - Level Order)
 // Time Complexity: O(N) → Visits every node once.
 // Space Complexity: O(W) → Stores W nodes (W = max width of tree).
-// var invertTree = function(root) {
-//  if (!root) return null;
-//     let queue = [root];
-//     while(queue.length > 0){
-//         let node =queue.shift();
-//        [node.left, node.right] = [node.right, node.left];
+var invertTree = function(root) {
+ if (!root) return null;
+    let queue = [root];
+    while(queue.length > 0){
+        let node =queue.shift();
+       [node.left, node.right] = [node.right, node.left];
 
-//         if(node.left !=null) queue.push(node.left);
-//         if(node.right !=null) queue.push(node.right);
-//     }
-//     return root
-// }
+        if(node.left !=null) queue.push(node.left);
+        if(node.right !=null) queue.push(node.right);
+    }
+    return root
+}
