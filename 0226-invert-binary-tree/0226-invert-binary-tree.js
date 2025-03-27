@@ -10,6 +10,8 @@
  * @param {TreeNode} root
  * @return {TreeNode}
  */
+
+ //TC  O(N) time, O(H) space
 var invertTree = function(root) {
     if (root === null) return null; // Base case
 
@@ -24,3 +26,16 @@ var invertTree = function(root) {
 
     return root;
 };
+
+var invertTree = function(root) {
+ if (!root) return null;
+    let queue = [root];
+    while(queue.length > 0){
+        let node =queue.shift();
+       [node.left, node.right] = [node.right, node.left];
+
+        if(node.left !=null) queue.push(node.left);
+        if(node.right !=null) queue.push(node.right);
+    }
+    return root
+}
