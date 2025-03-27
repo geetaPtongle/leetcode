@@ -11,7 +11,8 @@
  * @param {TreeNode} target
  * @return {TreeNode}
  */
-
+//TC: O(N)
+//SC: O(H) (O(N) worst case) H = Height of the tree (O(log N) for balanced, O(N) for skewed trees).
 var getTargetCopy = function(original, cloned, target) {
      if(original === null) return null;
      if(target === original ) return cloned;
