@@ -9,11 +9,14 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
-var middleNode = function(head) {
-    let slow =fast =head;
-    while(fast && fast.next){
-        slow=slow.next;
-        fast=fast.next.next;
+
+//  Time Complexity: O(N) (Single traversal)
+// Space Complexity: O(1) (Constant extra space)
+var middleNode = function (head) {
+    let slow = fast = head;
+    while (fast && fast.next) {
+        slow = slow.next;
+        fast = fast.next.next;
     }
     return slow;
 };
