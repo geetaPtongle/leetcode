@@ -25,10 +25,10 @@ var detectCycle = function(head) {
   } 
   if(fast != slow)
             return null;
-  let p =head;
-  while(p != slow){
-    p =p.next;
+   slow =head;
+  while(slow != fast){
     slow=slow.next;
+    fast=fast.next;
   }
-  return p;
+  return slow;
 };
