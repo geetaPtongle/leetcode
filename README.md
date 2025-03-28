@@ -64,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/geetaPtongle/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/geetaPtongle/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/geetaPtongle/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/geetaPtongle/leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/geetaPtongle/leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
