@@ -17,6 +17,9 @@
  * @param {ListNode} head
  * @return {TreeNode}
  */
+
+//  Time Complexity: O(N log N), since we find the middle (O(N)) and recurse twice (log N levels).
+// Space Complexity: O(log N), due to recursion depth in a balanced tree.
 var sortedListToBST = function (head) {
     if (head == null) return null;
     if (head.next == null) return new TreeNode(head.val);
