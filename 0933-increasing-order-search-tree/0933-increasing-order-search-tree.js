@@ -10,6 +10,8 @@
  * @param {TreeNode} root
  * @return {TreeNode}
  */
+//TC:  O(n): We visit each node exactly once during the in-order traversal, where n is the number of nodes in the tree.
+//SC:  O(h): The space complexity is the depth of the recursion stack, where h is the height of the tree (which in the worst case can be O(n) for an unbalanced tree).
 var increasingBST = function(root) {
     let newTree = new TreeNode(0);  // Dummy node to act as the new tree's root
     let current = newTree;  // A pointer to build the new tree
