@@ -1,3 +1,7 @@
+
+//Approach-1 (Using sorting)
+//T.C : O(nlogn)
+//S.C : O(1)
 class Solution {
     public int minMovesToSeat(int[] seats, int[] students) {
         int n = students.length;
