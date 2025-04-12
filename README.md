@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/geetaPtongle/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/geetaPtongle/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/geetaPtongle/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/geetaPtongle/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Divide and Conquer
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/geetaPtongle/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/geetaPtongle/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/geetaPtongle/leetcode/tree/master/0933-increasing-order-search-tree) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/geetaPtongle/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Backtracking
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/geetaPtongle/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/geetaPtongle/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/geetaPtongle/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Sliding Window
 |  |
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/geetaPtongle/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/geetaPtongle/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 <!---LeetCode Topics End-->
