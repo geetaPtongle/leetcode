@@ -5,7 +5,7 @@ class Solution {
         for (int i = 0; i < digits.length; i++) {
             if (digits[i] == '6') {
                 digits[i] = '9';
-                break; // Only change the first 6
+                break;
             }
         }
         return Integer.parseInt(new String(digits));
