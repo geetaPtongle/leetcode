@@ -2,12 +2,12 @@ class Solution {
  //Approach-1 (Recursion with Memo) : Top Down
 //  Time Complexity: O(n) — Linear time, as each number is calculated only once and stored for future use.
 // Space Complexity: O(n) —due to the storage required for both the recursion stack and the dp array.
-     public int climbStairs1(int n) {
+     public int climbStairs(int n) {
         int dp[] = new int[n + 1];
         Arrays.fill(dp, -1);
          return recur(n,dp);
      }
-    public static int recur(int n, int[] dp) {
+    public int recur(int n, int[] dp) {
         if (n == 0)
             return 1;
         if (n == 1)
@@ -45,7 +45,7 @@ class Solution {
 // Approch 3rd : dynamic programming approach using a space-optimized iterative solution
 //  time complexity of O(n),
 //  space complexity is O(1)
-    public int climbStairs(int n) {
+    public int climbStairs3(int n) {
     if (n <= 2) {
         return n;
     }
