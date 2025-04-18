@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/geetaPtongle/leetcode/tree/master/0070-climbing-stairs) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/geetaPtongle/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/geetaPtongle/leetcode/tree/master/1448-maximum-69-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/geetaPtongle/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/geetaPtongle/leetcode/tree/master/0070-climbing-stairs) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/geetaPtongle/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Greedy
 |  |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/geetaPtongle/leetcode/tree/master/0561-array-partition) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/geetaPtongle/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/geetaPtongle/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
