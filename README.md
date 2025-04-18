@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/geetaPtongle/leetcode/tree/master/0338-counting-bits) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/geetaPtongle/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2427-first-letter-to-appear-twice](https://github.com/geetaPtongle/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Tree
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/geetaPtongle/leetcode/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/geetaPtongle/leetcode/tree/master/0338-counting-bits) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/geetaPtongle/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/geetaPtongle/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/geetaPtongle/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
