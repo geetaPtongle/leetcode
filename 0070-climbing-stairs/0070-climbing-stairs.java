@@ -8,9 +8,8 @@ class Solution {
          return recur(n,dp);
      }
     public int recur(int n, int[] dp) {
-        if (n == 0)
-            return 1;
-        if (n == 1)
+      
+        if (n <= 1)
             return 1;
 
         if (dp[n] != -1)
