@@ -1,3 +1,6 @@
+//Using simple backtracking
+//T.C : O(2^n) where n is the total number of words
+//S.C : O(n)
 class Solution {
     int maxScore = Integer.MIN_VALUE;
     int n;
