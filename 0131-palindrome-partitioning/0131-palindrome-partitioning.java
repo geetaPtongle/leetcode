@@ -5,6 +5,8 @@
 // Space Complexity: O(k * x)
 
 // Reason: The space complexity can vary depending upon the length of the answer. k is the average length of the list of palindromes and if we have x such list of palindromes in our final answer. The depth of the recursion tree is n, so the auxiliary space required is equal to the O(n).
+
+
 class Solution {
     public List<List<String>> partition(String s) {
         List<List<String>> ans = new ArrayList<>();
@@ -12,6 +14,7 @@ class Solution {
         func(0, s, path, ans);
         return ans;
     }
+
 
     public void func(int index, String s, List<String> path, List<List<String>> ans) {
         if(index == s.length()){
