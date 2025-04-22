@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/geetaPtongle/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/geetaPtongle/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/geetaPtongle/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0491-non-decreasing-subsequences](https://github.com/geetaPtongle/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/geetaPtongle/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/geetaPtongle/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2427-first-letter-to-appear-twice](https://github.com/geetaPtongle/leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/geetaPtongle/leetcode/tree/master/0338-counting-bits) |
+| [0491-non-decreasing-subsequences](https://github.com/geetaPtongle/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/geetaPtongle/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2427-first-letter-to-appear-twice](https://github.com/geetaPtongle/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Tree
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/geetaPtongle/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0491-non-decreasing-subsequences](https://github.com/geetaPtongle/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/geetaPtongle/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/geetaPtongle/leetcode/tree/master/0561-array-partition) |
 | [0979-di-string-match](https://github.com/geetaPtongle/leetcode/tree/master/0979-di-string-match) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/geetaPtongle/leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/geetaPtongle/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0491-non-decreasing-subsequences](https://github.com/geetaPtongle/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/geetaPtongle/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 ## Sorting
 |  |
