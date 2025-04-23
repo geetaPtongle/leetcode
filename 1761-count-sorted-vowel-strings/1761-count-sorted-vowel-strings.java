@@ -1,7 +1,7 @@
 
-//Time Complexity: O(n * 5) → Efficient (only 5 vowels)
+// Time Complexity: O(n * 5) → Efficient (only 5 vowels)
 // Space Complexity: O(1) → Constant space (just one array of size 5)
-
+// This code uses Dynamic Programming (DP) with cumulative counting
 class Solution {
     char[] vowels = { 'a', 'e', 'i', 'o', 'u' };
 
