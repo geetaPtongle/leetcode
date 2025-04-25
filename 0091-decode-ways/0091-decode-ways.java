@@ -12,7 +12,7 @@ class Solution {
         dp = new int[n + 1];
 
         dp[0] = 1;  // Base case for empty string
-        dp[1] =  dp[1]= (s.charAt(0)!='0')?1:0;;  // Base case for the first character
+        dp[1]= (s.charAt(0)!='0')?1:0;;  // Base case for the first character
 
         for (int i = 2; i <= n; i++) {
              char chi = s.charAt(i-1);
