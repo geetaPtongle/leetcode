@@ -25,14 +25,12 @@ class Solution {
     }
 
     public int numDecodings(String s) {
-    
-        if (s == null || s.length() == 0 || s.charAt(0) == '0') return 0;
-
+        if (s.charAt(0) == '0') return 0;
         int n = s.length();
         dp = new int[n + 1];
 
         dp[0] = 1;  // Base case for empty string
-        dp[1]= (s.charAt(0)!='0')?1:0;;  // Base case for the first character
+        dp[1]= 1;  // Base case for the first character
 
         for (int i = 2; i <= n; i++) {
              char chi = s.charAt(i-1);
