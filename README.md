@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/geetaPtongle/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/geetaPtongle/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/geetaPtongle/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/geetaPtongle/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/geetaPtongle/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/geetaPtongle/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/geetaPtongle/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/geetaPtongle/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/geetaPtongle/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3778-transform-array-by-parity](https://github.com/geetaPtongle/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Bit Manipulation
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/geetaPtongle/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/geetaPtongle/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/geetaPtongle/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/geetaPtongle/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/geetaPtongle/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/geetaPtongle/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/geetaPtongle/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
