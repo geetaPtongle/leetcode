@@ -5,10 +5,8 @@ class Solution {
     }
 
     public int findFloor(int k, int n) {
-        if (n == 1)
-            return 1;
-        if (n < 1)
-            return 0;
+        if (n <= 1)
+            return n;
         if (k == 1)
             return n;
 
@@ -17,10 +15,10 @@ class Solution {
             return mp.get(temp);
 
         int minSteps = Integer.MAX_VALUE;
-        for (int ite = 1; ite <= n; ite++) {
+        for (int floor = 1; floor < n; floor++) {
             // 2 options
-            int op1 = findFloor(k - 1, ite - 1);
-            int op2 = findFloor(k, n - ite);
+            int op1 = findFloor(k - 1, floor - 1); // eggs break from floor and reducing floor by 1  floor 
+            int op2 = findFloor(k, n - floor); // eggs not break icrease the floor from current floor which is n-i
             int steps = 1 + Math.max(op1, op2);
             minSteps = Math.min(minSteps, steps);
         }
