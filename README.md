@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/geetaPtongle/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/geetaPtongle/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/geetaPtongle/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/geetaPtongle/leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/geetaPtongle/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/geetaPtongle/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/geetaPtongle/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/geetaPtongle/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/geetaPtongle/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/geetaPtongle/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/geetaPtongle/leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1761-count-sorted-vowel-strings](https://github.com/geetaPtongle/leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/geetaPtongle/leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/geetaPtongle/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
