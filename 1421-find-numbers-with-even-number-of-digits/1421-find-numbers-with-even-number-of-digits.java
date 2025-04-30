@@ -30,13 +30,35 @@ class Solution {
         return count;
     }
 
-    public int findNumbers(int[] nums) {
+    // approch3
+    public int findNumbers3(int[] nums) {
         int count = 0;
         String[] strArray = new String[nums.length];
 
         for (int i = 0; i < nums.length; i++) {
             strArray[i] = String.valueOf(nums[i]);
-             if (strArray[i].length() % 2 == 0) 
+            if (strArray[i].length() % 2 == 0)
+                count++;
+        }
+        return count;
+    }
+
+    //approch4
+    public int findNumbers4(int[] nums) {
+        int count = 0;
+        for (int i = 0; i < nums.length; i++) {
+            int digits = (int) Math.floor(Math.log10(nums[i]) + 1);
+            if (digits % 2 == 0)
+                count++;
+        }
+        return count;
+    }
+
+    public int findNumbers(int[] nums) {
+        int count = 0;
+        for (int i = 0; i < nums.length; i++) {
+            int digits = (int) Math.ceil(Math.log10(nums[i]  + 1));
+            if (digits % 2 == 0)
                 count++;
         }
         return count;
