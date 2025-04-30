@@ -5,7 +5,7 @@ class Solution {
         dp[0] = 1;
 
         for (int i = 1; i < n; i++) {
-             dp[i] = Long.MAX_VALUE;
+             dp[i] = Integer.MAX_VALUE;
 
             for (int j = 0; j < primes.length; j++) {
                  dp[i] = Math.min(dp[i], dp[index[j]] * primes[j]);
