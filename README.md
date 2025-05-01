@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/geetaPtongle/leetcode/tree/master/0051-n-queens) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/geetaPtongle/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0198-house-robber](https://github.com/geetaPtongle/leetcode/tree/master/0198-house-robber) |
 | [0313-super-ugly-number](https://github.com/geetaPtongle/leetcode/tree/master/0313-super-ugly-number) |
 | [0491-non-decreasing-subsequences](https://github.com/geetaPtongle/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/geetaPtongle/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/geetaPtongle/leetcode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/geetaPtongle/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/geetaPtongle/leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0198-house-robber](https://github.com/geetaPtongle/leetcode/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/geetaPtongle/leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/geetaPtongle/leetcode/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/geetaPtongle/leetcode/tree/master/0313-super-ugly-number) |
