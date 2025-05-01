@@ -1,6 +1,11 @@
 class Solution {
-    int[] dp;
+   
+// | Complexity Type     | Value                                    |
+// |---------------------|------------------------------------------|
+// | **Time Complexity** | `O(n * √n)`                              |
+// | **Space Complexity**| `O(n) (memo) + O(n) (call stack)`        |
 
+    int[] dp;
     public int numSquares1(int n) {
         dp = new int[n + 1];
         Arrays.fill(dp, -1);
@@ -21,7 +26,11 @@ class Solution {
         dp[n] = minValue;
         return minValue;
     }
-
+//bottom-up tabulation version 
+// | Complexity Type     | Value                                    |
+// |---------------------|------------------------------------------|
+// | **Time Complexity** | `O(n * √n)`                              |
+// | **Space Complexity**| `O(n)`        |
        public int numSquares(int n) {
         int[] memo =new int[n+1];
         Arrays.fill(memo, Integer.MAX_VALUE);
