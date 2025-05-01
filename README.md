@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/geetaPtongle/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/geetaPtongle/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/geetaPtongle/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/geetaPtongle/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/geetaPtongle/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/geetaPtongle/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/geetaPtongle/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/geetaPtongle/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/geetaPtongle/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/geetaPtongle/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/geetaPtongle/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/geetaPtongle/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/geetaPtongle/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/geetaPtongle/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/geetaPtongle/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/geetaPtongle/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/geetaPtongle/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Backtracking
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/geetaPtongle/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/geetaPtongle/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/geetaPtongle/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/geetaPtongle/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/geetaPtongle/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/geetaPtongle/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/geetaPtongle/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/geetaPtongle/leetcode/tree/master/1448-maximum-69-number) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/geetaPtongle/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/geetaPtongle/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/geetaPtongle/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/geetaPtongle/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/geetaPtongle/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/geetaPtongle/leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -339,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/geetaPtongle/leetcode/tree/master/1086-divisor-game) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/geetaPtongle/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
