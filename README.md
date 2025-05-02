@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/geetaPtongle/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/geetaPtongle/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/geetaPtongle/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/geetaPtongle/leetcode/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/geetaPtongle/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/geetaPtongle/leetcode/tree/master/0141-linked-list-cycle) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/geetaPtongle/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/geetaPtongle/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/geetaPtongle/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0948-sort-an-array](https://github.com/geetaPtongle/leetcode/tree/master/0948-sort-an-array) |
@@ -332,11 +334,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/geetaPtongle/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/geetaPtongle/leetcode/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/geetaPtongle/leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/geetaPtongle/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/geetaPtongle/leetcode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
