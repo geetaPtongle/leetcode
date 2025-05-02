@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/geetaPtongle/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/geetaPtongle/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/geetaPtongle/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0868-push-dominoes](https://github.com/geetaPtongle/leetcode/tree/master/0868-push-dominoes) |
 | [0979-di-string-match](https://github.com/geetaPtongle/leetcode/tree/master/0979-di-string-match) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/geetaPtongle/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/geetaPtongle/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/geetaPtongle/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/geetaPtongle/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/geetaPtongle/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0868-push-dominoes](https://github.com/geetaPtongle/leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/geetaPtongle/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0979-di-string-match](https://github.com/geetaPtongle/leetcode/tree/master/0979-di-string-match) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/geetaPtongle/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/geetaPtongle/leetcode/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/geetaPtongle/leetcode/tree/master/0313-super-ugly-number) |
 | [0338-counting-bits](https://github.com/geetaPtongle/leetcode/tree/master/0338-counting-bits) |
+| [0868-push-dominoes](https://github.com/geetaPtongle/leetcode/tree/master/0868-push-dominoes) |
 | [0967-minimum-falling-path-sum](https://github.com/geetaPtongle/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1086-divisor-game](https://github.com/geetaPtongle/leetcode/tree/master/1086-divisor-game) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/geetaPtongle/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
