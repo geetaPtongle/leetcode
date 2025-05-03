@@ -2,7 +2,7 @@ class Solution {
 
     //TC: O(m*n)
     //SC: dp O(m*n) + recurtion O(m-1) + O(n-1) which is nothing but path size m-1 -> and n-1 ->0
-    public int uniquePaths1(int m, int n) {
+    public int uniquePaths(int m, int n) {
         int memo[][] = new int[m][n];
         for (int[] arr : memo) {
             Arrays.fill(arr, -1);
@@ -11,7 +11,7 @@ class Solution {
         // return solve(0, 0, m, n, memo);
 
         //travlng form 0 to n cell
-        return solve(0, 0, m, n, memo);
+        return solve(m - 1, n - 1, memo);
     }
 
     //travlng form 0 to n cell
@@ -30,35 +30,34 @@ class Solution {
         }
         
 
-        int right = solve(i, j + 1, m, n, memo);
-        int down = solve(i + 1, j, m, n, memo);
+        int right = solve1(i, j + 1, m, n, memo);
+        int down = solve1(i + 1, j, m, n, memo);
 
         return memo[i][j] = right + down;
     }
 
     //travlng form n to 0 cell
-    public int solve(int i, int j, int m, int n, int[][] memo) {
-        if (i == 0 && j ==0) {
-            return 1;
-        }
-
-        // Out of bounds
-        if (i < 0 || j < 0) {
-            return 0;
-        }
-
-        if (memo[i][j] != -1) {
-            return memo[i][j];
-        }
-        
-
-        int right = solve(i-1, j, m, n, memo);
-        int down = solve(i, j+1, m, n, memo);
-
-        return memo[i][j] = right + down;
+    public int solve(int i, int j,int[][] memo) {
+        if (i == 0 && j == 0) {
+        return 1;
     }
 
- public int uniquePaths(int m, int n ){
+    if (i < 0 || j < 0) {
+        return 0;
+    }
+
+    if (memo[i][j] != -1) {
+        return memo[i][j];
+    }
+
+    int up = solve(i - 1, j, memo);
+    int left = solve(i, j - 1, memo);
+
+    return memo[i][j] = up + left;
+    }
+
+//Tabulation approch
+ public int uniquePaths1(int m, int n ){
    int[][] dp = new int[m][n];
    dp[0][0] =1;
 
