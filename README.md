@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/geetaPtongle/leetcode/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/geetaPtongle/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0979-di-string-match](https://github.com/geetaPtongle/leetcode/tree/master/0979-di-string-match) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/geetaPtongle/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/geetaPtongle/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/geetaPtongle/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/geetaPtongle/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/geetaPtongle/leetcode/tree/master/0561-array-partition) |
 | [0979-di-string-match](https://github.com/geetaPtongle/leetcode/tree/master/0979-di-string-match) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/geetaPtongle/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/geetaPtongle/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/geetaPtongle/leetcode/tree/master/1448-maximum-69-number) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/geetaPtongle/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
