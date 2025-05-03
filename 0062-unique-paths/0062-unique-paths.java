@@ -38,11 +38,11 @@ class Solution {
 
     //travlng form n to 0 cell
     public int solve(int i, int j,int[][] memo) {
-        if (i == 0 && j == 0) {
+    if (i < 0 || j < 0) return 0;
+
+    if (i == 0 && j == 0) {
         return 1;
     }
-
-    if (i < 0 || j < 0) return 0;
 
     if (memo[i][j] != -1) {
         return memo[i][j];
