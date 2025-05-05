@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/geetaPtongle/leetcode/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/geetaPtongle/leetcode/tree/master/0313-super-ugly-number) |
 | [0338-counting-bits](https://github.com/geetaPtongle/leetcode/tree/master/0338-counting-bits) |
+| [0806-domino-and-tromino-tiling](https://github.com/geetaPtongle/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/geetaPtongle/leetcode/tree/master/0868-push-dominoes) |
 | [0967-minimum-falling-path-sum](https://github.com/geetaPtongle/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1086-divisor-game](https://github.com/geetaPtongle/leetcode/tree/master/1086-divisor-game) |
