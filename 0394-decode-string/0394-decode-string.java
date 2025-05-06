@@ -10,13 +10,10 @@ class Solution {
 
                 while (!st.isEmpty()) {
                     String top = st.peek();
-                    if (!top.equals("[")) {
-                        buildString.insert(0, st.pop());
-                     
-                    }
-                    else{
+                    if (top.equals("[")) {
                         break;
                     }
+                    buildString.insert(0, st.pop());
                 }
                 st.pop();
 
