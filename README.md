@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/geetaPtongle/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0868-push-dominoes](https://github.com/geetaPtongle/leetcode/tree/master/0868-push-dominoes) |
 | [0979-di-string-match](https://github.com/geetaPtongle/leetcode/tree/master/0979-di-string-match) |
+| [1205-defanging-an-ip-address](https://github.com/geetaPtongle/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/geetaPtongle/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/geetaPtongle/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2427-first-letter-to-appear-twice](https://github.com/geetaPtongle/leetcode/tree/master/2427-first-letter-to-appear-twice) |
