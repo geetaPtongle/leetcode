@@ -8,7 +8,11 @@ class Solution {
             } else {
                 StringBuilder buildString = new StringBuilder();
 
-                while (!st.isEmpty() && !st.peek().equals("[")) {
+                while (!st.isEmpty()) {
+                    String top = st.peek();
+                    if (top.equals("[")) {
+                        break;
+                    }
                     buildString.insert(0, st.pop());
                 }
                 st.pop();
