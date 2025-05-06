@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/geetaPtongle/leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/geetaPtongle/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/geetaPtongle/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/geetaPtongle/leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/geetaPtongle/leetcode/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/geetaPtongle/leetcode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/geetaPtongle/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/geetaPtongle/leetcode/tree/master/0132-palindrome-partitioning-ii) |
