@@ -17,7 +17,5 @@ var defangIPaddr = function (address) {
     for (const ch of address)
         result += ch === '.' ? '[.]' : ch;
 
-
-
     return result;
 };
