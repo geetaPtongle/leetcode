@@ -12,7 +12,10 @@ var defangIPaddr = function (address) {
 
     // result = address.split('.').join("[.]");
 
-    result = Array.from(address).map((element) => element ==='.' ? '[.]': element).join('');
+    // result = Array.from(address).map((element) => element ==='.' ? '[.]': element).join('');
+
+for(const ch of address)
+result += ch ==='.'? '[.]': ch;
 
     return result;
 };
