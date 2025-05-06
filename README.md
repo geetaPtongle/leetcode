@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/geetaPtongle/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/geetaPtongle/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/geetaPtongle/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/geetaPtongle/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2427-first-letter-to-appear-twice](https://github.com/geetaPtongle/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/geetaPtongle/leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3055-maximum-odd-binary-number](https://github.com/geetaPtongle/leetcode/tree/master/3055-maximum-odd-binary-number) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/geetaPtongle/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2048-build-array-from-permutation](https://github.com/geetaPtongle/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/geetaPtongle/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/geetaPtongle/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/geetaPtongle/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/geetaPtongle/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/geetaPtongle/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -390,4 +392,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/geetaPtongle/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/geetaPtongle/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
