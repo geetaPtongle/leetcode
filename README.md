@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/geetaPtongle/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/geetaPtongle/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/geetaPtongle/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/geetaPtongle/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/geetaPtongle/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3778-transform-array-by-parity](https://github.com/geetaPtongle/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Divide and Conquer
@@ -359,12 +360,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/geetaPtongle/leetcode/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/geetaPtongle/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/geetaPtongle/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/geetaPtongle/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/geetaPtongle/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/geetaPtongle/leetcode/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/geetaPtongle/leetcode/tree/master/0948-sort-an-array) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/geetaPtongle/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -400,4 +403,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/geetaPtongle/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/geetaPtongle/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Graph
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/geetaPtongle/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/geetaPtongle/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
