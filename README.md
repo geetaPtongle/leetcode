@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/geetaPtongle/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/geetaPtongle/leetcode/tree/master/0394-decode-string) |
 | [0933-increasing-order-search-tree](https://github.com/geetaPtongle/leetcode/tree/master/0933-increasing-order-search-tree) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/geetaPtongle/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/geetaPtongle/leetcode/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/geetaPtongle/leetcode/tree/master/0868-push-dominoes) |
 | [0979-di-string-match](https://github.com/geetaPtongle/leetcode/tree/master/0979-di-string-match) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/geetaPtongle/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/geetaPtongle/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/geetaPtongle/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/geetaPtongle/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
