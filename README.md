@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/geetaPtongle/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/geetaPtongle/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3379-score-of-a-string](https://github.com/geetaPtongle/leetcode/tree/master/3379-score-of-a-string) |
+| [3637-count-number-of-balanced-permutations](https://github.com/geetaPtongle/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Counting
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/geetaPtongle/leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/geetaPtongle/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3055-maximum-odd-binary-number](https://github.com/geetaPtongle/leetcode/tree/master/3055-maximum-odd-binary-number) |
+| [3637-count-number-of-balanced-permutations](https://github.com/geetaPtongle/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Array
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1761-count-sorted-vowel-strings](https://github.com/geetaPtongle/leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/geetaPtongle/leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/geetaPtongle/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3637-count-number-of-balanced-permutations](https://github.com/geetaPtongle/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Greedy
 |  |
 | ------- |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/geetaPtongle/leetcode/tree/master/0062-unique-paths) |
 | [1761-count-sorted-vowel-strings](https://github.com/geetaPtongle/leetcode/tree/master/1761-count-sorted-vowel-strings) |
+| [3637-count-number-of-balanced-permutations](https://github.com/geetaPtongle/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Brainteaser
 |  |
 | ------- |
