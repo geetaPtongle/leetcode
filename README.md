@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/geetaPtongle/leetcode/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/geetaPtongle/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/geetaPtongle/leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/geetaPtongle/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/geetaPtongle/leetcode/tree/master/0198-house-robber) |
 | [0313-super-ugly-number](https://github.com/geetaPtongle/leetcode/tree/master/0313-super-ugly-number) |
 | [0491-non-decreasing-subsequences](https://github.com/geetaPtongle/leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/geetaPtongle/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/geetaPtongle/leetcode/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/geetaPtongle/leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/geetaPtongle/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/geetaPtongle/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/geetaPtongle/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/geetaPtongle/leetcode/tree/master/0198-house-robber) |
