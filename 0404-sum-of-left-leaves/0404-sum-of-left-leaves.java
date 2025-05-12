@@ -25,7 +25,6 @@ class Solution {
         if(curr == null) return;
         if(curr.left == null && curr.right ==null && dir =='l'){
             count +=curr.val;
-            return;
         }
         
         postOrder(curr.left , 'l');
