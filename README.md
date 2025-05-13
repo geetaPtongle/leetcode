@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/geetaPtongle/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/geetaPtongle/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/geetaPtongle/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/geetaPtongle/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/geetaPtongle/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/geetaPtongle/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3379-score-of-a-string](https://github.com/geetaPtongle/leetcode/tree/master/3379-score-of-a-string) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/geetaPtongle/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/geetaPtongle/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Counting
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/geetaPtongle/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/geetaPtongle/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/geetaPtongle/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/geetaPtongle/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3778-transform-array-by-parity](https://github.com/geetaPtongle/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Bit Manipulation
 |  |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/geetaPtongle/leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/geetaPtongle/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3055-maximum-odd-binary-number](https://github.com/geetaPtongle/leetcode/tree/master/3055-maximum-odd-binary-number) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/geetaPtongle/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/geetaPtongle/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Array
 |  |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1761-count-sorted-vowel-strings](https://github.com/geetaPtongle/leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/geetaPtongle/leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/geetaPtongle/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/geetaPtongle/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/geetaPtongle/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Greedy
 |  |
