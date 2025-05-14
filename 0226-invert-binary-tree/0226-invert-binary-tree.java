@@ -31,20 +31,39 @@ class Solution {
         return root;
     }
 
-     public TreeNode invertTree(TreeNode root) {
-        if(root == null) return null;
-     Queue<TreeNode> qu
-            = new LinkedList<TreeNode>(); 
-            qu.offer(root);
-            while(!qu.isEmpty()){
-                TreeNode curr = qu.poll();
-           TreeNode temp = curr.left;
-                curr.left=curr.right;
-                curr.right = temp;
+    public TreeNode invertTree2(TreeNode root) {
+        if (root == null)
+            return null;
+        Queue<TreeNode> qu = new LinkedList<TreeNode>();
+        qu.offer(root);
+        while (!qu.isEmpty()) {
+            TreeNode curr = qu.poll();
+            TreeNode temp = curr.left;
+            curr.left = curr.right;
+            curr.right = temp;
 
-                 if (curr.left != null) qu.offer(curr.left);
-        if (curr.right != null) qu.offer(curr.right);
-            }
-            return root;
+            if (curr.left != null)
+                qu.offer(curr.left);
+            if (curr.right != null)
+                qu.offer(curr.right);
+        }
+        return root;
+    }
+
+     public TreeNode invertTree(TreeNode root) {
+            if (root == null)
+            return null;
+        Stack<TreeNode> st = new Stack<TreeNode>();
+        st.add(root);
+        while(!st.isEmpty()){
+            TreeNode curr=st.pop();
+            TreeNode temp = curr.left;
+            curr.left=curr.right;
+            curr.right=temp;
+
+            if(curr.left !=null) st.add(curr.left);
+            if(curr.right !=null) st.add(curr.right);
+        }
+        return root;
      }
 }
