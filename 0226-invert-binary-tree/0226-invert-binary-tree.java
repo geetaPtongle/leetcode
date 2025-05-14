@@ -17,7 +17,7 @@
 // SC : In the worst case (skewed tree), the depth of recursion is O(n).
 // In the best case (balanced tree), it's O(log n).
 class Solution {
-    public TreeNode invertTree(TreeNode root) {
+    public TreeNode invertTree1(TreeNode root) {
         if (root == null)
             return null;
 
@@ -30,4 +30,21 @@ class Solution {
 
         return root;
     }
+
+     public TreeNode invertTree(TreeNode root) {
+        if(root == null) return null;
+     Queue<TreeNode> qu
+            = new LinkedList<TreeNode>(); 
+            qu.offer(root);
+            while(!qu.isEmpty()){
+                TreeNode curr = qu.poll();
+           TreeNode temp = curr.left;
+                curr.left=curr.right;
+                curr.right = temp;
+
+                 if (curr.left != null) qu.offer(curr.left);
+        if (curr.right != null) qu.offer(curr.right);
+            }
+            return root;
+     }
 }
