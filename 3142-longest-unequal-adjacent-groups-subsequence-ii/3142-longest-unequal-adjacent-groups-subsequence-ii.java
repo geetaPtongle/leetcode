@@ -1,21 +1,23 @@
 class Solution {
-   public static List<String> getWordsInLongestSubsequence(String[] words, int[] groups) {
-        int n = words.length;
-        int[] dp = new int[n];
+    public List<String> getWordsInLongestSubsequence(String[] words, int[] groups) {
+           int n = words.length;
+        int[] dp   = new int[n];
         int[] prev = new int[n];
         
-        Arrays.fill(dp, 1);
+        // 1) Initialize
+        Arrays.fill(dp,   1);   // every word can at least form length-1 subsequence
         Arrays.fill(prev, -1);
+        
         int maxIndex = 0;
         
+        // 2) Build dp[]
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < i; j++) {
-                // differ by exactly one char, and not same group, and improves subsequence length
-                if (check(words[i], words[j]) 
-                    && dp[j] + 1 > dp[i] 
-                    && groups[i] != groups[j]) {
-                    
-                    dp[i] = dp[j] + 1;
+                if ( check(words[i], words[j])     // differ by exactly one char
+                  && groups[i] != groups[j]        // different group
+                  && dp[j] + 1 > dp[i] ) {         // improves the length
+                  
+                    dp[i]   = dp[j] + 1;
                     prev[i] = j;
                 }
             }
@@ -24,7 +26,7 @@ class Solution {
             }
         }
         
-        // reconstruct the subsequence
+        // 3) Reconstruct the longest subsequence
         List<String> result = new ArrayList<>();
         for (int at = maxIndex; at != -1; at = prev[at]) {
             result.add(words[at]);
@@ -32,17 +34,15 @@ class Solution {
         Collections.reverse(result);
         return result;
     }
-    
-    private static boolean check(String s1, String s2) {
+
+     private static boolean check(String s1, String s2) {
         if (s1.length() != s2.length()) return false;
         int diff = 0;
         for (int i = 0; i < s1.length(); i++) {
             if (s1.charAt(i) != s2.charAt(i)) {
-                diff++;
-                if (diff > 1) return false;
+                if (++diff > 1) return false;
             }
         }
-        // ensure exactly one character differs
-        return diff == 1;
+        return diff == 1;  // exactly one character must differ
     }
 }
