@@ -27,7 +27,7 @@ class Solution {
         }
         String leftTree = solve(curr.left, mp, ans);
         String rightTree = solve(curr.right, mp, ans);
-        String st = Integer.toString(curr.val) + "#" + leftTree + "#" + rightTree;
+        String st = Integer.toString(curr.val) + "#" + leftTree + "#" + rightTree; //root_left_right
 
             // mp.put(st, mp.getOrDefault(st, 0) + 1); 
             // if(mp.get(st) == 2) ans.add(curr);
