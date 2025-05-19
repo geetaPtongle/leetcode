@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/geetaPtongle/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/geetaPtongle/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/geetaPtongle/leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/geetaPtongle/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/geetaPtongle/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/geetaPtongle/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/geetaPtongle/leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/geetaPtongle/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/geetaPtongle/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/geetaPtongle/leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/geetaPtongle/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/geetaPtongle/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/geetaPtongle/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/geetaPtongle/leetcode/tree/master/0226-invert-binary-tree) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/geetaPtongle/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/geetaPtongle/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/geetaPtongle/leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/geetaPtongle/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/geetaPtongle/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/geetaPtongle/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/geetaPtongle/leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/geetaPtongle/leetcode/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/geetaPtongle/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/geetaPtongle/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/geetaPtongle/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/geetaPtongle/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/geetaPtongle/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/geetaPtongle/leetcode/tree/master/0198-house-robber) |
