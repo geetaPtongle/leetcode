@@ -15,15 +15,16 @@
  */
 class Solution {
     public TreeNode removeLeafNodes(TreeNode root, int target) {
-        if(root == null) return null;
-     
-        TreeNode leftTree =removeLeafNodes(root.left, target);
-        TreeNode rightTree =removeLeafNodes(root.right, target);
+        if (root == null)
+            return null;
 
-        root.left= leftTree;
-        root.right= rightTree;
+        TreeNode leftTree = removeLeafNodes(root.left, target);
+        TreeNode rightTree = removeLeafNodes(root.right, target);
 
-           if(leftTree == null && rightTree == null && root.val == target){
+        root.left = leftTree; //suppose we make any refernece null so attaching that reference back to parrent node
+        root.right = rightTree;
+
+        if (leftTree == null && rightTree == null && root.val == target) { //leaf nodes are null and node value is equal to target value
             return null;
         }
 
