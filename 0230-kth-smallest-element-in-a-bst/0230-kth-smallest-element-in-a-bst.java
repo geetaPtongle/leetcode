@@ -36,17 +36,15 @@ class Solution {
          return ans[0];
     }
 
-    private void helper(TreeNode root, int k, int[] count, int[] ans) {
-    if (root == null) return;
+     private void helper(TreeNode root, int k, int[] count, int[] ans){
+        if(root ==null) return;
+        helper(root.left, k, count, ans);
+        count[0]++;
+        if(count[0] == k){
+           ans[0]= root.val;
+           return;
+        } 
+        helper(root.right, k, count, ans);
+     }
 
-    helper(root.left, k, count, ans);
-    
-    count[0]++;
-    if (count[0] == k) {
-        ans[0] = root.val;
-        return;
-    }
-
-    helper(root.right, k, count, ans);
-}
 }
