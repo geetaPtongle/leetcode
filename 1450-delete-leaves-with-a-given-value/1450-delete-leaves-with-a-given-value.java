@@ -21,7 +21,7 @@ class Solution {
         TreeNode leftTree = removeLeafNodes(root.left, target);
         TreeNode rightTree = removeLeafNodes(root.right, target);
 
-        root.left = leftTree; //suppose we make any refernece null so attaching that reference back to parrent node
+        root.left = leftTree; //suppose we make any refernece null so attaching that reference back to parrent node. It is king of updating the tree again with left and right
         root.right = rightTree;
 
         if (leftTree == null && rightTree == null && root.val == target) { //leaf nodes are null and node value is equal to target value
