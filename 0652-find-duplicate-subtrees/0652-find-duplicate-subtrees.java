@@ -29,8 +29,15 @@ class Solution {
         String rightTree = solve(curr.right, mp, ans);
         String st = Integer.toString(curr.val) + "#" + leftTree + "#" + rightTree;
 
-            mp.put(st, mp.getOrDefault(st, 0) + 1); 
-            if(mp.get(st) == 2) ans.add(curr);
+            // mp.put(st, mp.getOrDefault(st, 0) + 1); 
+            // if(mp.get(st) == 2) ans.add(curr);
+            if(mp.containsKey(st)){
+                if(mp.get(st) ==1)
+                ans.add(curr);
+                mp.put(st, mp.get(st)+1);
+            }else{
+                mp.put(st, 1);
+            }
 
         return st;
     }
