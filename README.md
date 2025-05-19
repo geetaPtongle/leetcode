@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/geetaPtongle/leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/geetaPtongle/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3055-maximum-odd-binary-number](https://github.com/geetaPtongle/leetcode/tree/master/3055-maximum-odd-binary-number) |
+| [3321-type-of-triangle](https://github.com/geetaPtongle/leetcode/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/geetaPtongle/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/geetaPtongle/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/geetaPtongle/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/geetaPtongle/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/geetaPtongle/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/geetaPtongle/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3321-type-of-triangle](https://github.com/geetaPtongle/leetcode/tree/master/3321-type-of-triangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/geetaPtongle/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/geetaPtongle/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3778-transform-array-by-parity](https://github.com/geetaPtongle/leetcode/tree/master/3778-transform-array-by-parity) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/geetaPtongle/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/geetaPtongle/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/geetaPtongle/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3321-type-of-triangle](https://github.com/geetaPtongle/leetcode/tree/master/3321-type-of-triangle) |
 | [3778-transform-array-by-parity](https://github.com/geetaPtongle/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Sliding Window
 |  |
