@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/geetaPtongle/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3321-type-of-triangle](https://github.com/geetaPtongle/leetcode/tree/master/3321-type-of-triangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/geetaPtongle/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3639-zero-array-transformation-i](https://github.com/geetaPtongle/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/geetaPtongle/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3778-transform-array-by-parity](https://github.com/geetaPtongle/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Divide and Conquer
@@ -493,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/geetaPtongle/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/geetaPtongle/leetcode/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
