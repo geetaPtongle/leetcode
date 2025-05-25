@@ -531,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1738-maximal-network-rank](https://github.com/geetaPtongle/leetcode/tree/master/1738-maximal-network-rank) |
+| [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/geetaPtongle/leetcode/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1916-find-center-of-star-graph](https://github.com/geetaPtongle/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/geetaPtongle/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
