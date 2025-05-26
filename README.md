@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/geetaPtongle/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/geetaPtongle/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/geetaPtongle/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1753-path-with-minimum-effort](https://github.com/geetaPtongle/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/geetaPtongle/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/geetaPtongle/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/geetaPtongle/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/geetaPtongle/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1753-path-with-minimum-effort](https://github.com/geetaPtongle/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/geetaPtongle/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/geetaPtongle/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/geetaPtongle/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/geetaPtongle/leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1753-path-with-minimum-effort](https://github.com/geetaPtongle/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/geetaPtongle/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2048-build-array-from-permutation](https://github.com/geetaPtongle/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/geetaPtongle/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/geetaPtongle/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/geetaPtongle/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/geetaPtongle/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/geetaPtongle/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/geetaPtongle/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/geetaPtongle/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/geetaPtongle/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/geetaPtongle/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0967-minimum-falling-path-sum](https://github.com/geetaPtongle/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/geetaPtongle/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1753-path-with-minimum-effort](https://github.com/geetaPtongle/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/geetaPtongle/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/geetaPtongle/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Heap (Priority Queue)
@@ -489,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/geetaPtongle/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/geetaPtongle/leetcode/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/geetaPtongle/leetcode/tree/master/0948-sort-an-array) |
+| [1753-path-with-minimum-effort](https://github.com/geetaPtongle/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/geetaPtongle/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3647-zero-array-transformation-iii](https://github.com/geetaPtongle/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Merge Sort
@@ -547,4 +553,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/geetaPtongle/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/geetaPtongle/leetcode/tree/master/3647-zero-array-transformation-iii) |
+## Union Find
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/geetaPtongle/leetcode/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
