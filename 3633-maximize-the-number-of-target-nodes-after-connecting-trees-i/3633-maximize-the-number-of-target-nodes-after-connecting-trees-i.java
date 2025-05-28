@@ -41,7 +41,8 @@ class Solution {
 
         int[] result = new int[N];
         for (int i = 0; i < N; i++) {
-            result[i] = bfs(i, adj, d, N);
+            // result[i] = bfs(i, adj, d, N);
+             result[i] = dfs(i, adj, d, -1);
         }
 
         return result;
@@ -61,4 +62,19 @@ class Solution {
 
         return result1;
     }
+
+     private int dfs(int curr, Map<Integer, List<Integer>> adj, int d, int parent) {
+        if (d < 0) return 0;
+
+        int count = 1; // count current node
+
+        for (int neighbor : adj.getOrDefault(curr, new ArrayList<>())) {
+            if (neighbor != parent) {
+                count += dfs(neighbor, adj, d - 1, curr);
+            }
+        }
+
+        return count;
+    }
+
 }
