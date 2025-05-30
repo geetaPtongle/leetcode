@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/geetaPtongle/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/geetaPtongle/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1753-path-with-minimum-effort](https://github.com/geetaPtongle/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/geetaPtongle/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/geetaPtongle/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/geetaPtongle/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/geetaPtongle/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1738-maximal-network-rank](https://github.com/geetaPtongle/leetcode/tree/master/1738-maximal-network-rank) |
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/geetaPtongle/leetcode/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1916-find-center-of-star-graph](https://github.com/geetaPtongle/leetcode/tree/master/1916-find-center-of-star-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/geetaPtongle/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/geetaPtongle/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
