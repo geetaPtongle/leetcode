@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/geetaPtongle/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/geetaPtongle/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/geetaPtongle/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/geetaPtongle/leetcode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/geetaPtongle/leetcode/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/geetaPtongle/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0313-super-ugly-number](https://github.com/geetaPtongle/leetcode/tree/master/0313-super-ugly-number) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/geetaPtongle/leetcode/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/geetaPtongle/leetcode/tree/master/0561-array-partition) |
 | [0979-di-string-match](https://github.com/geetaPtongle/leetcode/tree/master/0979-di-string-match) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/geetaPtongle/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
