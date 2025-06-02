@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/geetaPtongle/leetcode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/geetaPtongle/leetcode/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/geetaPtongle/leetcode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/geetaPtongle/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/geetaPtongle/leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/geetaPtongle/leetcode/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/geetaPtongle/leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/geetaPtongle/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/geetaPtongle/leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/geetaPtongle/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/geetaPtongle/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/geetaPtongle/leetcode/tree/master/0064-minimum-path-sum) |
