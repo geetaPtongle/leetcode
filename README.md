@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/geetaPtongle/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/geetaPtongle/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/geetaPtongle/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0871-keys-and-rooms](https://github.com/geetaPtongle/leetcode/tree/master/0871-keys-and-rooms) |
 | [0933-increasing-order-search-tree](https://github.com/geetaPtongle/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/geetaPtongle/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/geetaPtongle/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/geetaPtongle/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/geetaPtongle/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/geetaPtongle/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0871-keys-and-rooms](https://github.com/geetaPtongle/leetcode/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/geetaPtongle/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/geetaPtongle/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/geetaPtongle/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/geetaPtongle/leetcode/tree/master/0871-keys-and-rooms) |
 | [1738-maximal-network-rank](https://github.com/geetaPtongle/leetcode/tree/master/1738-maximal-network-rank) |
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/geetaPtongle/leetcode/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1916-find-center-of-star-graph](https://github.com/geetaPtongle/leetcode/tree/master/1916-find-center-of-star-graph) |
