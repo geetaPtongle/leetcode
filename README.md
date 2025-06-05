@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/geetaPtongle/leetcode/tree/master/0782-jewels-and-stones) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/geetaPtongle/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/geetaPtongle/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/geetaPtongle/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/geetaPtongle/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/geetaPtongle/leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/geetaPtongle/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/geetaPtongle/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/geetaPtongle/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/geetaPtongle/leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/geetaPtongle/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/geetaPtongle/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/geetaPtongle/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/geetaPtongle/leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/geetaPtongle/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/geetaPtongle/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/geetaPtongle/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/geetaPtongle/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/geetaPtongle/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/geetaPtongle/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/geetaPtongle/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/geetaPtongle/leetcode/tree/master/0338-counting-bits) |
 | [0491-non-decreasing-subsequences](https://github.com/geetaPtongle/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/geetaPtongle/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/geetaPtongle/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/geetaPtongle/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/geetaPtongle/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/geetaPtongle/leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/geetaPtongle/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/geetaPtongle/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/geetaPtongle/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/geetaPtongle/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2048-build-array-from-permutation](https://github.com/geetaPtongle/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/geetaPtongle/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
