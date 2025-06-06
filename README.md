@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/geetaPtongle/leetcode/tree/master/0394-decode-string) |
 | [0933-increasing-order-search-tree](https://github.com/geetaPtongle/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/geetaPtongle/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/geetaPtongle/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Design
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/geetaPtongle/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/geetaPtongle/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/geetaPtongle/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/geetaPtongle/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/geetaPtongle/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/geetaPtongle/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## String
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/geetaPtongle/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/geetaPtongle/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2427-first-letter-to-appear-twice](https://github.com/geetaPtongle/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/geetaPtongle/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/geetaPtongle/leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3055-maximum-odd-binary-number](https://github.com/geetaPtongle/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/geetaPtongle/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/geetaPtongle/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/geetaPtongle/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/geetaPtongle/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/geetaPtongle/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/geetaPtongle/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/geetaPtongle/leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3055-maximum-odd-binary-number](https://github.com/geetaPtongle/leetcode/tree/master/3055-maximum-odd-binary-number) |
