@@ -24,8 +24,7 @@ class Solution {
         int cumSum = 0;
         for (int i = 0; i < n; i++) {
             ans[i] += cumSum;
-            int val = Character.getNumericValue(boxes.charAt(i));
-            cumVal += val;
+            cumVal  += Character.getNumericValue(boxes.charAt(i));
             cumSum += cumVal;
         }
         cumVal = 0;
@@ -33,8 +32,7 @@ class Solution {
 
         for (int i = n - 1; i >= 0; i--) {
             ans[i] += cumSum;
-            int val = Character.getNumericValue(boxes.charAt(i));
-            cumVal += val;
+            cumVal  += Character.getNumericValue(boxes.charAt(i));
             cumSum += cumVal;
         }
         return ans;
