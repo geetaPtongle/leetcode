@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/geetaPtongle/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/geetaPtongle/leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/geetaPtongle/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/geetaPtongle/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/geetaPtongle/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/geetaPtongle/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/geetaPtongle/leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/geetaPtongle/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/geetaPtongle/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/geetaPtongle/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/geetaPtongle/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/geetaPtongle/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2048-build-array-from-permutation](https://github.com/geetaPtongle/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/geetaPtongle/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/geetaPtongle/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3639-zero-array-transformation-i](https://github.com/geetaPtongle/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/geetaPtongle/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Union Find
