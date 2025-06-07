@@ -29,11 +29,9 @@ class Solution {
             }
         }
     }
-    if(ans.size() ==numCourses){
+    if(ans.size() ==numCourses)
         return true;
-    }
-    else {
+    else 
         return false;
-    }
     }
 }
