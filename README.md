@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/geetaPtongle/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/geetaPtongle/leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/geetaPtongle/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/geetaPtongle/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/geetaPtongle/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/geetaPtongle/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/geetaPtongle/leetcode/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/geetaPtongle/leetcode/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/geetaPtongle/leetcode/tree/master/0127-word-ladder) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/geetaPtongle/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/geetaPtongle/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/geetaPtongle/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/geetaPtongle/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/geetaPtongle/leetcode/tree/master/0064-minimum-path-sum) |
