@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/geetaPtongle/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/geetaPtongle/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/geetaPtongle/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/geetaPtongle/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/geetaPtongle/leetcode/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/geetaPtongle/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/geetaPtongle/leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/geetaPtongle/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/geetaPtongle/leetcode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/geetaPtongle/leetcode/tree/master/0279-perfect-squares) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/geetaPtongle/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/geetaPtongle/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/geetaPtongle/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/geetaPtongle/leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/geetaPtongle/leetcode/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/geetaPtongle/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0313-super-ugly-number](https://github.com/geetaPtongle/leetcode/tree/master/0313-super-ugly-number) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/geetaPtongle/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0491-non-decreasing-subsequences](https://github.com/geetaPtongle/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/geetaPtongle/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/geetaPtongle/leetcode/tree/master/0561-array-partition) |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/geetaPtongle/leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/geetaPtongle/leetcode/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/geetaPtongle/leetcode/tree/master/0313-super-ugly-number) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/geetaPtongle/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/geetaPtongle/leetcode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/geetaPtongle/leetcode/tree/master/0338-counting-bits) |
 | [0806-domino-and-tromino-tiling](https://github.com/geetaPtongle/leetcode/tree/master/0806-domino-and-tromino-tiling) |
@@ -556,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/geetaPtongle/leetcode/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/geetaPtongle/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Bitmask
 |  |
 | ------- |
@@ -566,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/geetaPtongle/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/geetaPtongle/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/geetaPtongle/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/geetaPtongle/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/geetaPtongle/leetcode/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/geetaPtongle/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/geetaPtongle/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -627,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/geetaPtongle/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/geetaPtongle/leetcode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/geetaPtongle/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0871-keys-and-rooms](https://github.com/geetaPtongle/leetcode/tree/master/0871-keys-and-rooms) |
 | [1738-maximal-network-rank](https://github.com/geetaPtongle/leetcode/tree/master/1738-maximal-network-rank) |
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/geetaPtongle/leetcode/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
@@ -659,4 +666,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/geetaPtongle/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/geetaPtongle/leetcode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/geetaPtongle/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
