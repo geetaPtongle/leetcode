@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/geetaPtongle/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/geetaPtongle/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/geetaPtongle/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/geetaPtongle/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/geetaPtongle/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/geetaPtongle/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/geetaPtongle/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/geetaPtongle/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/geetaPtongle/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/geetaPtongle/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/geetaPtongle/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/geetaPtongle/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/geetaPtongle/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/geetaPtongle/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/geetaPtongle/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/geetaPtongle/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/geetaPtongle/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/geetaPtongle/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/geetaPtongle/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/geetaPtongle/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/geetaPtongle/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
