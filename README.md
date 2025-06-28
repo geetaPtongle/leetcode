@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/geetaPtongle/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/geetaPtongle/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/geetaPtongle/leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1677-matrix-diagonal-sum](https://github.com/geetaPtongle/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/geetaPtongle/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/geetaPtongle/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/geetaPtongle/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/geetaPtongle/leetcode/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/geetaPtongle/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/geetaPtongle/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1677-matrix-diagonal-sum](https://github.com/geetaPtongle/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1753-path-with-minimum-effort](https://github.com/geetaPtongle/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/geetaPtongle/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/geetaPtongle/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
