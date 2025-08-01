@@ -16,9 +16,9 @@ public int majorityElement1(int[] nums) {
         }
         return result;
     }
-    
-    public int majorityElement(int[] nums) {
 
+//using Hashing 
+    public int majorityElement2(int[] nums) {
         Map<Integer, Integer> map = new HashMap<>();
         for (int n : nums) {
             map.put(n, map.getOrDefault(n, 0) + 1);
@@ -31,4 +31,27 @@ public int majorityElement1(int[] nums) {
         }
         return -1;
     }
+//
+ public int majorityElement(int[] nums) {
+    int n=nums.length;
+    int count =0;
+    int el =0;
+    for(int i=0; i<n; i++){
+        if(count ==0){
+            count=1;
+            el=nums[i];
+        }        
+        else if(nums[i] == el) count++;
+        else count--;
+    }
+    int count1=0;
+
+    for(int i=0; i< n; i++){
+        if(nums[i]== el) count1++;
+    }
+    if(count1 > n/2) return el;
+    else return -1;
+ }
+
+
 }
