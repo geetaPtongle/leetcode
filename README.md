@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/geetaPtongle/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/geetaPtongle/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/geetaPtongle/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [4008-restore-finishing-order](https://github.com/geetaPtongle/leetcode/tree/master/4008-restore-finishing-order) |
 ## String
 |  |
 | ------- |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/geetaPtongle/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/geetaPtongle/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/geetaPtongle/leetcode/tree/master/3778-transform-array-by-parity) |
+| [4008-restore-finishing-order](https://github.com/geetaPtongle/leetcode/tree/master/4008-restore-finishing-order) |
 ## Divide and Conquer
 |  |
 | ------- |
