@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/geetaPtongle/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/geetaPtongle/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/geetaPtongle/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0278-first-bad-version](https://github.com/geetaPtongle/leetcode/tree/master/0278-first-bad-version) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/geetaPtongle/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/geetaPtongle/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/geetaPtongle/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -720,4 +721,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/geetaPtongle/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/geetaPtongle/leetcode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/geetaPtongle/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/geetaPtongle/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
