@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/geetaPtongle/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/geetaPtongle/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/geetaPtongle/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/geetaPtongle/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/geetaPtongle/leetcode/tree/master/0141-linked-list-cycle) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/geetaPtongle/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/geetaPtongle/leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/geetaPtongle/leetcode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/geetaPtongle/leetcode/tree/master/0063-unique-paths-ii) |
