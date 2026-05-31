@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/geetaPtongle/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/geetaPtongle/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/geetaPtongle/leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/geetaPtongle/leetcode/tree/master/0141-linked-list-cycle) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/geetaPtongle/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/geetaPtongle/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/geetaPtongle/leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/geetaPtongle/leetcode/tree/master/0051-n-queens) |
