@@ -1,29 +1,27 @@
 class Solution {
-    public List<Integer> majorityElement(int[] v) {
-          int n = v.length; //size of the array
-        List<Integer> ls = new ArrayList<>(); // list of answers
+    public List<Integer> majorityElement(int[] nums) {
+       int n = nums.length;
+        List<Integer> result = new ArrayList<>();
 
         for (int i = 0; i < n; i++) {
-            //selected element is v[i]:
-            // Checking if v[i] is not already
-            // a part of the answer:
-            if (ls.size() == 0 || ls.get(0) != v[i]) {
-                int cnt = 0;
+            // Check if nums[i] is not already part of the result
+            if (result.size() == 0 || result.get(0) != nums[i] && (result.size() < 2 || result.get(1) != nums[i])) {
+                int count = 0;
                 for (int j = 0; j < n; j++) {
-                    // counting the frequency of v[i]
-                    if (v[j] == v[i]) {
-                        cnt++;
+                    if (nums[j] == nums[i]) {
+                        count++;
                     }
                 }
-
-                // check if frquency is greater than n/3:
-                if (cnt > (n / 3))
-                    ls.add(v[i]);
+                if (count > n / 3) {
+                    result.add(nums[i]);
+                }
             }
 
-            if (ls.size() == 2) break;
+            if (result.size() == 2) {
+                break;
+            }
         }
 
-        return ls;
+        return result;
     }
 }
