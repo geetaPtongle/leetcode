@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/geetaPtongle/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/geetaPtongle/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/geetaPtongle/leetcode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/geetaPtongle/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/geetaPtongle/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/geetaPtongle/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/geetaPtongle/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/geetaPtongle/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/geetaPtongle/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/geetaPtongle/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/geetaPtongle/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/geetaPtongle/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/geetaPtongle/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/geetaPtongle/leetcode/tree/master/0169-majority-element) |
@@ -776,4 +778,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/geetaPtongle/leetcode/tree/master/0278-first-bad-version) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/geetaPtongle/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
