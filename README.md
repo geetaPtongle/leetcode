@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/geetaPtongle/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/geetaPtongle/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/geetaPtongle/leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/geetaPtongle/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/geetaPtongle/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/geetaPtongle/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/geetaPtongle/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/geetaPtongle/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/geetaPtongle/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/geetaPtongle/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/geetaPtongle/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/geetaPtongle/leetcode/tree/master/0088-merge-sorted-array) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/geetaPtongle/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/geetaPtongle/leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/geetaPtongle/leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/geetaPtongle/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/geetaPtongle/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/geetaPtongle/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/geetaPtongle/leetcode/tree/master/0053-maximum-subarray) |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/geetaPtongle/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/geetaPtongle/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/geetaPtongle/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/geetaPtongle/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/geetaPtongle/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/geetaPtongle/leetcode/tree/master/0063-unique-paths-ii) |
@@ -784,4 +788,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/geetaPtongle/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/geetaPtongle/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
