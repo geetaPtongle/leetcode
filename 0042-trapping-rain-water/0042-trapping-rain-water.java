@@ -23,7 +23,7 @@ class Solution {
         return totalTrap;
     }
 
-    public int trap(int[] height) {
+    public int trap2(int[] height) {
         int ans= 0;
         int n=height.length;
         int[] leftMax=new int[n];
@@ -43,5 +43,27 @@ class Solution {
                 ans +=Math.min(leftMax[i], rightMax[i]) -height[i];
             }
         return  ans;
+    }
+
+     public int trap(int[] height) {
+        int n=height.length;
+        int left=0;
+        int right=n-1;
+        int ans=0;
+        int lMax=0, rMax=0;
+        while (left < right){
+            lMax =Math.max(lMax, height[left]);
+            rMax =Math.max(rMax, height[right]);
+
+            if(lMax < rMax){
+                ans +=lMax-height[left];
+                left++;
+            }else {
+                ans +=rMax-height[right];
+                right--;
+            }
+        }
+        return ans;
+
     }
 }
