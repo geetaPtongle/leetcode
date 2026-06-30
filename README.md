@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/geetaPtongle/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/geetaPtongle/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/geetaPtongle/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/geetaPtongle/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/geetaPtongle/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/geetaPtongle/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/geetaPtongle/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1753-path-with-minimum-effort](https://github.com/geetaPtongle/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/geetaPtongle/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/geetaPtongle/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/geetaPtongle/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/geetaPtongle/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/geetaPtongle/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/geetaPtongle/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/geetaPtongle/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2596-check-knight-tour-configuration](https://github.com/geetaPtongle/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/geetaPtongle/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/geetaPtongle/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/geetaPtongle/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/geetaPtongle/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1753-path-with-minimum-effort](https://github.com/geetaPtongle/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/geetaPtongle/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2596-check-knight-tour-configuration](https://github.com/geetaPtongle/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/geetaPtongle/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Heap (Priority Queue)
 |  |
@@ -738,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/geetaPtongle/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/geetaPtongle/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/geetaPtongle/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2596-check-knight-tour-configuration](https://github.com/geetaPtongle/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3701-compute-alternating-sum](https://github.com/geetaPtongle/leetcode/tree/master/3701-compute-alternating-sum) |
 ## Graph
 |  |
