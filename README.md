@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/geetaPtongle/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/geetaPtongle/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/geetaPtongle/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2305-fair-distribution-of-cookies](https://github.com/geetaPtongle/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2427-first-letter-to-appear-twice](https://github.com/geetaPtongle/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/geetaPtongle/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/geetaPtongle/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/geetaPtongle/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/geetaPtongle/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2305-fair-distribution-of-cookies](https://github.com/geetaPtongle/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/geetaPtongle/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/geetaPtongle/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2596-check-knight-tour-configuration](https://github.com/geetaPtongle/leetcode/tree/master/2596-check-knight-tour-configuration) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/geetaPtongle/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/geetaPtongle/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/geetaPtongle/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2305-fair-distribution-of-cookies](https://github.com/geetaPtongle/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Sorting
 |  |
 | ------- |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1761-count-sorted-vowel-strings](https://github.com/geetaPtongle/leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/geetaPtongle/leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/geetaPtongle/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2305-fair-distribution-of-cookies](https://github.com/geetaPtongle/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/geetaPtongle/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/geetaPtongle/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/geetaPtongle/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -670,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/geetaPtongle/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [2305-fair-distribution-of-cookies](https://github.com/geetaPtongle/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Matrix
 |  |
 | ------- |
