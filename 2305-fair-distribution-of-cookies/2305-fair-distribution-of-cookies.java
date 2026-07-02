@@ -3,8 +3,7 @@ class Solution {
     public int distributeCookies(int[] cookies, int k) {
         int[] children =new int[k];        
         solve(cookies,k, children, 0);
-        return result;
-        
+        return result;        
     }
 
    public void solve(int[] cookies, int k, int[] children, int index){
@@ -21,6 +20,9 @@ class Solution {
             children[i] +=cokkie;
            solve(cookies,k, children, index +1);
               children[i] -=cokkie;
+               if(children[i]==0){
+                return;
+            }
         }     
     }
 }
